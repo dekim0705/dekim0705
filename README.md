@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=DaeunKim🎉&fontColor=183641fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaeunKim🎉&fontColor=183641fontSize=70)
 
 <div align="center"> 
   <h2>📦 Tech Stack</h2>
