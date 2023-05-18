@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <h2>📦 Tech Stack</h2>
-  <p>Techs that I've used at leaset once</p>
+  <p>Techs that I've used at least once</p>
 </div>
 
 <div align=center> 
